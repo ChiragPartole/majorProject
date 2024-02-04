@@ -7,11 +7,13 @@ import CitizenVer from "./CitizenVerifiction/CitizenVer.jsx";
 import DisplayInfo from "./CitizenVerifiction/DisplayInfo.jsx";
 import Login from "./Login/Login.jsx";
 import OfficialNavbar from "./OfficialNavbar.jsx";
-
+import HomeTweets from "./HomeTweets.jsx";
+import Dashboard from "./CrimeManagement/Dashboard.jsx";
+import UserNavbar from "./UserComponent/UserNavbar.jsx";
 function App() {
     return (
         <div>
-            <HomeOfficials/>            
+            <UserNavbar/>
             
 
             {/* 

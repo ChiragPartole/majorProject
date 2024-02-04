@@ -10,8 +10,9 @@ const HomeOfficials = () => {
     <div>
       <OfficialNavbar />
       <div>Home_officials</div>
-      <HomeTweets/>
+      
       <CrimeCards/>
+      
 
       {/* Add your content for the officials' home page here */}
     </div>
